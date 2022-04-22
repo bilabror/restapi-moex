@@ -1,0 +1,30 @@
+{
+  "name": "restapi-moex",
+  "version": "1.0.0",
+  "description": "learn how to make restapi with express and mongodb",
+  "main": "index.js",
+  "scripts": {
+  	"start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilabror/restapi-moex.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "express",
+    "mongodb"
+  ],
+  "author": "Bil Abror",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilabror/restapi-moex/issues"
+  },
+  "homepage": "https://github.com/bilabror/restapi-moex#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.15"
+  }
+}
